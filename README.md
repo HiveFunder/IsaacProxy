@@ -1,6 +1,6 @@
-# Project Name
+# HiveFunder isaac-proxy
 
-> Project description
+> Isaac Lee's proxy for SDC
 
 ## Related Projects
 
