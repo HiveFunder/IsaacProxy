@@ -15,5 +15,5 @@ app.listen(PORT, err => {
     console.error(err);
     return;
   }
-  console.log('Proxy listening at 3000...');
+  console.log(`Proxy listening at ...${PORT}`);
 });
